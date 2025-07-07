@@ -2193,6 +2193,4657 @@
 								</constraint>
 							</constraints>
 						</field>
+						<field>
+    <type>rte</type>
+    <id>rte26_html</id>
+    <iceId />
+    <title>rte26</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte27_html</id>
+    <iceId />
+    <title>rte27</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte28_html</id>
+    <iceId />
+    <title>rte28</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte29_html</id>
+    <iceId />
+    <title>rte29</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte30_html</id>
+    <iceId />
+    <title>rte30</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte31_html</id>
+    <iceId />
+    <title>rte31</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte32_html</id>
+    <iceId />
+    <title>rte32</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte33_html</id>
+    <iceId />
+    <title>rte33</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte34_html</id>
+    <iceId />
+    <title>rte34</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte35_html</id>
+    <iceId />
+    <title>rte35</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte36_html</id>
+    <iceId />
+    <title>rte36</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte37_html</id>
+    <iceId />
+    <title>rte37</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte38_html</id>
+    <iceId />
+    <title>rte38</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte39_html</id>
+    <iceId />
+    <title>rte39</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte40_html</id>
+    <iceId />
+    <title>rte40</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte41_html</id>
+    <iceId />
+    <title>rte41</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte42_html</id>
+    <iceId />
+    <title>rte42</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte43_html</id>
+    <iceId />
+    <title>rte43</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte44_html</id>
+    <iceId />
+    <title>rte44</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte45_html</id>
+    <iceId />
+    <title>rte45</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte46_html</id>
+    <iceId />
+    <title>rte46</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte47_html</id>
+    <iceId />
+    <title>rte47</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte48_html</id>
+    <iceId />
+    <title>rte48</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte49_html</id>
+    <iceId />
+    <title>rte49</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte50_html</id>
+    <iceId />
+    <title>rte50</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte51_html</id>
+    <iceId />
+    <title>rte51</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte52_html</id>
+    <iceId />
+    <title>rte52</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte53_html</id>
+    <iceId />
+    <title>rte53</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte54_html</id>
+    <iceId />
+    <title>rte54</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte55_html</id>
+    <iceId />
+    <title>rte55</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte56_html</id>
+    <iceId />
+    <title>rte56</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte57_html</id>
+    <iceId />
+    <title>rte57</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte58_html</id>
+    <iceId />
+    <title>rte58</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte59_html</id>
+    <iceId />
+    <title>rte59</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte60_html</id>
+    <iceId />
+    <title>rte60</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte61_html</id>
+    <iceId />
+    <title>rte61</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte62_html</id>
+    <iceId />
+    <title>rte62</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte63_html</id>
+    <iceId />
+    <title>rte63</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte64_html</id>
+    <iceId />
+    <title>rte64</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte65_html</id>
+    <iceId />
+    <title>rte65</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte66_html</id>
+    <iceId />
+    <title>rte66</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte67_html</id>
+    <iceId />
+    <title>rte67</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte68_html</id>
+    <iceId />
+    <title>rte68</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte69_html</id>
+    <iceId />
+    <title>rte69</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte70_html</id>
+    <iceId />
+    <title>rte70</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte71_html</id>
+    <iceId />
+    <title>rte71</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte72_html</id>
+    <iceId />
+    <title>rte72</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte73_html</id>
+    <iceId />
+    <title>rte73</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte74_html</id>
+    <iceId />
+    <title>rte74</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte75_html</id>
+    <iceId />
+    <title>rte75</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte76_html</id>
+    <iceId />
+    <title>rte76</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte77_html</id>
+    <iceId />
+    <title>rte77</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte78_html</id>
+    <iceId />
+    <title>rte78</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte79_html</id>
+    <iceId />
+    <title>rte79</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte80_html</id>
+    <iceId />
+    <title>rte80</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte81_html</id>
+    <iceId />
+    <title>rte81</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte82_html</id>
+    <iceId />
+    <title>rte82</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte83_html</id>
+    <iceId />
+    <title>rte83</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte84_html</id>
+    <iceId />
+    <title>rte84</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte85_html</id>
+    <iceId />
+    <title>rte85</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte86_html</id>
+    <iceId />
+    <title>rte86</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte87_html</id>
+    <iceId />
+    <title>rte87</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte88_html</id>
+    <iceId />
+    <title>rte88</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte89_html</id>
+    <iceId />
+    <title>rte89</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte90_html</id>
+    <iceId />
+    <title>rte90</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte91_html</id>
+    <iceId />
+    <title>rte91</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte92_html</id>
+    <iceId />
+    <title>rte92</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte93_html</id>
+    <iceId />
+    <title>rte93</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte94_html</id>
+    <iceId />
+    <title>rte94</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte95_html</id>
+    <iceId />
+    <title>rte95</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte96_html</id>
+    <iceId />
+    <title>rte96</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte97_html</id>
+    <iceId />
+    <title>rte97</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte98_html</id>
+    <iceId />
+    <title>rte98</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte99_html</id>
+    <iceId />
+    <title>rte99</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field><field>
+    <type>rte</type>
+    <id>rte100_html</id>
+    <iceId />
+    <title>rte100</title>
+    <description />
+    <defaultValue />
+    <help />
+    <properties>
+        <property>
+            <name>height</name>
+            <value />
+            <type>int</type>
+        </property>
+        <property>
+            <name>autoGrow</name>
+            <value>false</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>enableSpellCheck</name>
+            <value>true</value>
+            <type>boolean</type>
+        </property>
+        <property>
+            <name>supportedChannels</name>
+            <value />
+            <type>supportedChannels</type>
+        </property>
+        <property>
+            <name>rteConfiguration</name>
+            <value>generic</value>
+            <type>string</type>
+        </property>
+        <property>
+            <name>imageManager</name>
+            <value />
+            <type>datasource:image</type>
+        </property>
+        <property>
+            <name>videoManager</name>
+            <value />
+            <type>datasource:video</type>
+        </property>
+        <property>
+            <name>audioManager</name>
+            <value />
+            <type>datasource:audio</type>
+        </property>
+        <property>
+            <name>fileManager</name>
+            <value />
+            <type>datasource:item</type>
+        </property>
+    </properties>
+    <constraints>
+        <constraint>
+            <name>required</name>
+            <value />
+            <type>boolean</type>
+        </constraint>
+    </constraints>
+</field>
 					</fields>
 				</field>
 			</fields>
